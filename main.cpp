@@ -1,5 +1,4 @@
-// Student Grades.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+//students_GPA_project
 #include <iostream>
 using namespace std;
 
